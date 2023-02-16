@@ -1,0 +1,62 @@
+
+
+.link-gumbuall {
+    text-align: center;
+    margin: 45%;
+    padding: 20px;
+    background-color:rgb(0, 238, 255) ;
+    border-radius: 10px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+.a-gumball {
+    color: white;
+    font-size: 26px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.link-miraculous {
+    text-align: center;
+    margin: 43%;
+    padding: 20px;
+    background-color:rgb(255, 0, 0) ;
+    border-radius: 10px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.a-miraculous {
+    color: white;
+    font-size: 26px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover,
+a:active {
+    background-color: red;
+    border-radius: 10px;
+    padding: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.press {
+    font-size: 50px;
+    margin-left: 40%;
+    position: absolute;
+    top: 5%;
+}
+
+#icon {
+    position: absolute;
+    left: 37%;
+    top: 6%;
+
+}
